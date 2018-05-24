@@ -1,5 +1,7 @@
 # laravel-middleware-protocol
 
+Automatic protocol change from http to https
+
 ---
 Supported by
 
