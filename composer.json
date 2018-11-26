@@ -1,5 +1,5 @@
 {
-  "name": "bavix/laravel-middleware-protocol",
+  "name": "bavix/laravel-middleware-https",
   "description": "Protocol Middleware for Laravel 5",
   "license": "MIT",
   "keywords": [
