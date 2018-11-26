@@ -1,10 +1,16 @@
 {
   "name": "bavix/laravel-middleware-https",
-  "description": "Protocol Middleware for Laravel 5",
+  "description": "Https Middleware for Laravel 5",
   "license": "MIT",
   "keywords": [
     "laravel",
     "protocol",
+    "http",
+    "https",
+    "redirect",
+    "automatic",
+    "schema",
+    "scheme",
     "middleware"
   ],
   "authors": [
